@@ -1,0 +1,2 @@
+# generator-typescript
+build typescript

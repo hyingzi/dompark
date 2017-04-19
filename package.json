@@ -1,0 +1,17 @@
+{
+    "name": "dompark",
+    "version": "1.0.0",
+    "description": "dompark",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack-dev-server --devtool eval-source-map --progress --color"
+    },
+    "author": "h.yingzi",
+    "license": "MIT",
+    "devDependencies": {
+        "html-webpack-plugin": "^2.28.0",
+        "ts-loader": "^2.0.3",
+        "webpack": "^2.4.1",
+        "webpack-dev-server": "^2.4.2"
+    }
+}
